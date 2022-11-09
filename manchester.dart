@@ -1,4 +1,5 @@
 import 'convertir_binario.dart';
+import 'dart:math';
 
 class Manchester {
   List<String> binariosString;
